@@ -1,0 +1,11 @@
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\bin\Debug\banner.exe.config
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\bin\Debug\banner.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\bin\Debug\banner.pdb
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.csprojResolveAssemblyReference.cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.libraryForm.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.Properties.Resources.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.csproj.GenerateResource.Cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.pdb
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.SplashScreen.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\banner\banner\obj\Debug\banner.Inventory.resources
